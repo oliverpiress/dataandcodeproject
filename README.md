@@ -12,3 +12,6 @@
 - Open [_TunePad_](https://tunepad.com/)
 - Import file
 - Click play at the top right corner to play the whole file together
+
+## Inspiration of the music
+- My Tunepad piece was inspired by this [_Musescore_](https://musescore.com/user/801096/scores/9415417/piano-tutorial) transcription of Take the A Train, and if you listen to it you will hear the similarities!
